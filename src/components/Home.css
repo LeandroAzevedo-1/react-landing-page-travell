@@ -30,9 +30,11 @@
     .home_title {
         left: 0;
         font-size: 1.6rem;
+        bottom: 5%;
     }
     .home p {
         left: 12px;
         font-size: 1.2rem;
+        bottom: 4%;
     }
 }
