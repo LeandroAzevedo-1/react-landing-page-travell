@@ -26,3 +26,13 @@
     font-size: 2rem;
     right: 30%;
 }
+@media screen and (max-width: 650px) {
+    .home_title {
+        left: 0;
+        font-size: 2rem;
+    }
+    .home p {
+        left: 10px;
+        font-size: 1.4rem;
+    }
+}
