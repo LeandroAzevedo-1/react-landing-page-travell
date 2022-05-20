@@ -29,10 +29,10 @@
 @media screen and (max-width: 650px) {
     .home_title {
         left: 0;
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
     .home p {
-        left: 10px;
-        font-size: 1.4rem;
+        left: 12px;
+        font-size: 1.2rem;
     }
 }
